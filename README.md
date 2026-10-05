@@ -37,43 +37,7 @@ I'm comfortable moving between different parts of a project — **frontend, back
 
 ---
 
-## 🚀 Things I've Built
-
-### 🤖 Discord Bots & Systems
-
-Building Discord applications with interactive interfaces, permissions, databases, background tasks, and API integrations.
-
-Some of the systems I've worked on include:
-
-* Ticket systems
-* Interactive panels
-* Slash commands
-* Permission management
-* MongoDB persistence
-* Automated background tasks
-* Giveaway systems
-* Administrative tools
-
----
-
-### 📱 Android Applications
-
-I build Android applications using **Kotlin**, working with both traditional Android Views and Jetpack Compose.
-
-Areas I've explored include:
-
-* Accessibility Services
-* MediaProjection
-* Floating interfaces
-* Deep links
-* App-to-app communication
-* Network APIs
-* Custom UI systems
-* Android system behavior
-
----
-
-### 🔌 APIs & Integrations
+## 🔌 APIs & Integrations
 
 A large part of my development work involves connecting different systems together.
 
@@ -96,48 +60,6 @@ Application
 ```
 
 Understanding the complete flow is often just as important to me as getting the final result.
-
----
-
-## 📌 Featured Projects
-
-### 🏫 Parent Portal Assistant
-
-A digital companion designed to help parents access academic information through Messenger.
-
-**JavaScript**
-
----
-
-### 🇵🇭 Philippines Map
-
-An interactive map of the Philippines covering **Luzon, Visayas, and Mindanao**, including province-level interaction and region/color management.
-
-**TypeScript**
-
----
-
-### 🎙️ Discord Live Voice Bot
-
-A Discord voice system that bridges a voice channel with a browser interface.
-
-Features include:
-
-* Browser-based control
-* Voice channel integration
-* Role-based command permissions
-* Slash commands
-* Usage logging
-
-**TypeScript**
-
----
-
-### 🎮 MLBB Hero Winrate Viewer
-
-An unofficial desktop application for viewing Mobile Legends hero win rates using a player's UID.
-
-**Python · Tkinter**
 
 ---
 

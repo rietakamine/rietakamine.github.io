@@ -68,7 +68,7 @@ Understanding the complete flow is often just as important to me as getting the 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,kotlin,python,cs,html,css" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,html,css" />
 </p>
 
 ### Frameworks & Platforms

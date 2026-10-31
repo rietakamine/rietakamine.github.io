@@ -12,10 +12,10 @@ I'm naturally curious about how things work behind the scenes. When I encounter 
 
 <p align="center">
   <a href="https://jetgumisad.onrender.com">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-jetgumisad.onrender.com-5865F2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-jetgumisad.onrender.com-5865F2?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://github.com/rietakamine">
-    <img src="https://img.shields.io/badge/GitHub-rietakamine-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-rietakamine-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
@@ -68,19 +68,19 @@ Understanding the complete flow is often just as important to me as getting the 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,java,python,html,css" alt="Languages" />
 </p>
 
 ### Frameworks & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=android,nodejs,dotnet" />
+  <img src="https://skillicons.dev/icons?i=android,nodejs,dotnet" alt="Frameworks and platforms" />
 </p>
 
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,git,github,androidstudio,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,androidstudio,visualstudio" alt="Databases and tools" />
 </p>
 
 ---
@@ -88,8 +88,8 @@ Understanding the complete flow is often just as important to me as getting the 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rietakamine&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietakamine&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rietakamine&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rietakamine&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="Top languages" />
 </p>
 
 ---
@@ -97,15 +97,12 @@ Understanding the complete flow is often just as important to me as getting the 
 ## 🌐 Links
 
 <p align="center">
-
-<a href="https://jetgumisad.onrender.com">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rietakamine">
-<img src="https://img.shields.io/badge/GitHub-rietakamine-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="https://jetgumisad.onrender.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-5865F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/rietakamine">
+    <img src="https://img.shields.io/badge/GitHub-rietakamine-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 ---

@@ -88,7 +88,7 @@ Understanding the complete flow is often just as important to me as getting the 
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rietakamine&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rietakamine&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rietakamine&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
